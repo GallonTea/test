@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/java,maven,macos,windows,eclipse,intellij+all,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,maven,macos,windows,eclipse,intellij+all,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/java,macos,maven,windows,eclipse,intellij+all,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,macos,maven,windows,eclipse,intellij+all,visualstudiocode
 
 ### Eclipse ###
 .metadata
@@ -252,12 +252,6 @@ buildNumber.properties
 .history
 .ionide
 
-# Support for Project snippet scope
-.vscode/*.code-snippets
-
-# Ignore code-workspaces
-*.code-workspace
-
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -284,4 +278,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/java,maven,macos,windows,eclipse,intellij+all,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/java,macos,maven,windows,eclipse,intellij+all,visualstudiocode
